@@ -42,16 +42,16 @@ The open endpoint serves the *latest* table only and asks for a visible attribut
 The image is rendered live from the keyless endpoint above, so it follows the central bank's publications on npm and on GitHub alike without a new release. The text copy below is there for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
 
 <!-- daily-table:start -->
-Published **2026-10-14** by Central Bank of Belize — 8 rates. Updated 2026-10-14.
+Published **2026-10-15** by Central Bank of Belize — 8 rates. Updated 2026-10-15.
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| CAD | BZD | buy | 1.3802 |
-| CAD | BZD | sell | 1.4222 |
-| EUR | BZD | buy | 2.1918 |
-| EUR | BZD | sell | 2.2586 |
-| GBP | BZD | buy | 2.5994 |
-| GBP | BZD | sell | 2.6786 |
+| CAD | BZD | buy | 1.3867 |
+| CAD | BZD | sell | 1.4289 |
+| EUR | BZD | buy | 2.2084 |
+| EUR | BZD | sell | 2.2756 |
+| GBP | BZD | buy | 2.6106 |
+| GBP | BZD | sell | 2.6902 |
 | USD | BZD | buy | 2 |
 | USD | BZD | sell | 2.0175 |
 
