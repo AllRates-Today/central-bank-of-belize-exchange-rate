@@ -20,6 +20,10 @@
 
 > **Official rate, not mid-market:** every value here is a number Central Bank of Belize itself published, fixed once printed and carrying the central bank's own `rate_date` — what filings and audits require. Need the live mid-market rate for pricing or display instead? Use the [mid-market API](https://allratestoday.com/docs/) or [`@allratestoday/sdk`](https://www.npmjs.com/package/@allratestoday/sdk). The two can diverge by several percent.
 
+## 🔑 Get your API key
+
+Get a free API key at [allratestoday.com/register](https://allratestoday.com/register) — no credit card required. Latest rates are on every plan, including free.
+
 ## ⚡ Try it without a key
 
 The latest Central Bank of Belize table is also served keyless, CORS-open and edge-cached, for evaluation, embeds and AI agents:
@@ -43,16 +47,16 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-16 by Central Bank of Belize — 8 rates. Updated 2026-10-19.</summary>
+<summary>Table as text: published 2026-10-20 by Central Bank of Belize — 8 rates. Updated 2026-10-20.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| CAD | BZD | buy | 1.3922 |
-| CAD | BZD | sell | 1.4346 |
-| EUR | BZD | buy | 2.2168 |
-| EUR | BZD | sell | 2.2844 |
-| GBP | BZD | buy | 2.6298 |
-| GBP | BZD | sell | 2.7098 |
+| CAD | BZD | buy | 1.4036 |
+| CAD | BZD | sell | 1.4464 |
+| EUR | BZD | buy | 2.2131 |
+| EUR | BZD | sell | 2.2805 |
+| GBP | BZD | buy | 2.6372 |
+| GBP | BZD | sell | 2.7176 |
 | USD | BZD | buy | 2 |
 | USD | BZD | sell | 2.0175 |
 
@@ -60,10 +64,6 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 Source: [Official rates published by CBBZ, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/cbbz/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->
-
-## 🔑 Get your API key
-
-Get a free API key at [allratestoday.com/register](https://allratestoday.com/register) — no credit card required. Latest rates are on every plan, including free.
 
 ## 📦 Installation
 
