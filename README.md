@@ -37,7 +37,7 @@ const r = await fetch('https://allratestoday.com/api/open/central-bank/cbbz').th
 console.log(r.rate_date, r.rates.length); // the central bank's latest published table, no key
 ```
 
-The open endpoint serves the *latest* table only (JSON by default; add `?format=csv`, `xml` or `xlsx` for a file) and asks for a visible attribution link. The client below uses the keyed API, which adds point-in-time tables and history.
+The open endpoint serves the *latest* table only (JSON by default; add `?format=csv`, `xml` or `xlsx` for a file) and is free to use with a visible, followable link where the rates are shown: `<a href="https://allratestoday.com">Exchange rates by AllRatesToday</a>` (terms: <https://allratestoday.com/terms/#attribution>). The client below uses the keyed API, which adds point-in-time tables and history; with a key the link is appreciated, not required.
 
 ## 📈 Latest published table
 
@@ -47,16 +47,16 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-20 by Central Bank of Belize — 8 rates. Updated 2026-10-20.</summary>
+<summary>Table as text: published 2026-10-21 by Central Bank of Belize — 8 rates. Updated 2026-10-21.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| CAD | BZD | buy | 1.4036 |
-| CAD | BZD | sell | 1.4464 |
-| EUR | BZD | buy | 2.2131 |
-| EUR | BZD | sell | 2.2805 |
-| GBP | BZD | buy | 2.6372 |
-| GBP | BZD | sell | 2.7176 |
+| CAD | BZD | buy | 1.4013 |
+| CAD | BZD | sell | 1.4439 |
+| EUR | BZD | buy | 2.2129 |
+| EUR | BZD | sell | 2.2803 |
+| GBP | BZD | buy | 2.6378 |
+| GBP | BZD | sell | 2.7182 |
 | USD | BZD | buy | 2 |
 | USD | BZD | sell | 2.0175 |
 
