@@ -32,16 +32,16 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-09 by Central Bank of Belize — 8 rates. Updated 2026-11-09.</summary>
+<summary>Table as text: published 2026-11-10 by Central Bank of Belize — 8 rates. Updated 2026-11-10.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| CAD | BZD | buy | 1.3965 |
-| CAD | BZD | sell | 1.4391 |
-| EUR | BZD | buy | 2.2054 |
-| EUR | BZD | sell | 2.2726 |
-| GBP | BZD | buy | 2.6428 |
-| GBP | BZD | sell | 2.7232 |
+| CAD | BZD | buy | 1.3904 |
+| CAD | BZD | sell | 1.4328 |
+| EUR | BZD | buy | 2.2046 |
+| EUR | BZD | sell | 2.2718 |
+| GBP | BZD | buy | 2.6396 |
+| GBP | BZD | sell | 2.72 |
 | USD | BZD | buy | 2 |
 | USD | BZD | sell | 2.0175 |
 
